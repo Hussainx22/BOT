@@ -36,8 +36,8 @@
   },
   "adminBot": [
   "100071009500533",
-  "61563548284372",
-   "100049220893428"
+  "",
+   ""
 ],
   "whiteListMode": {
     "enable": false,
@@ -48,7 +48,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "-𝐓𝐚𝐡𝐮 ʙʙź 🍬⛱️",
+  "nickNameBot": "-ᴀʀᴏʜɪ вв'у🍬⛱️",
   "prefix": "!",
   "api": "https://www.noobs-api.000.pe",
   "api2": "https://www.noobs-api.000.pe/dipto",
